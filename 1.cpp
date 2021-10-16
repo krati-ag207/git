@@ -5,7 +5,7 @@ int main()
 {
     int a;
     a =12;
-    cout<<"sice of int "<<sizeof(a)<<endl;
+    cout<<"yahi hai "<<sizeof(a)<<endl;
 
 
     return 0;
